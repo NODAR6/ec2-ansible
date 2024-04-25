@@ -23,7 +23,7 @@ jobs:
       with:
         depth: 1
         branch: 'main'
-        owner: 'techtorialdevops'
+        owner: 'NODAR6'
         repository: 'ec2-ansible'
     
     - name: Configure AWS credentials
